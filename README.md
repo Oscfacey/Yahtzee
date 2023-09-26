@@ -12,10 +12,15 @@ Winner Determination: The game determines the winner based on the total scores a
 
 ## What I Worked On
 Game Logic: I designed and implemented the core game logic, including dice rolling, scoring, and turn management.
+
 User Interface: I created a text-based user interface to display game information and receive player input.
+
 Scoring Algorithm: I developed an algorithm to calculate scores based on the player's dice and chosen combination.
+
 Multiplayer Support: The game supports multiple players, and I implemented the logic for turn rotation.
+
 Error Handling: I included error handling to ensure a smooth user experience and prevent invalid moves.
+
 Game Flow: I managed the flow of the game, including starting, playing, and ending rounds.
 
 ## Technologies Used
